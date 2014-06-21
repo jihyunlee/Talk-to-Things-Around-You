@@ -24,4 +24,3 @@ Talk to Things
 --------------
 - add BLE module
 - PhoneGap
-- 
