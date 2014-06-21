@@ -22,7 +22,7 @@ Make Things
 
 Talk to Things
 --------------
-- add BLE module
+- add BLE module (ex. <a href="https://www.adafruit.com/products/1697" target="_blank">Bluefruit LE</a>
 - <a href="http://phonegap.com/" target="_blank">PhoneGap</a>
   - Install
     - Install <a href="http://nodejs.org/" target="_blank">Node.js</a>
