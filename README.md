@@ -24,3 +24,6 @@ Talk to Things
 --------------
 - add BLE module
 - PhoneGap
+  - Installation
+  - Command line
+  - Run app
