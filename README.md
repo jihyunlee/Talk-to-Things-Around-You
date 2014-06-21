@@ -24,6 +24,8 @@ Talk to Things
 --------------
 - add BLE module
 - <a href="http://phonegap.com/" target="_blank">PhoneGap</a>
-  - <a href="http://phonegap.com/install/" target="_blank">Install</a>
+  - <a href="http://phonegap.com/install/" target="_blank">Install PhoneGap</a>
+    - Install <a href="http://nodejs.org/" target="_blank">Node.js</a>
+    - Run Terminal
   - Command line
   - Run app
