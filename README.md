@@ -7,12 +7,10 @@ e. jihyun.lee@nyu.edu<br/>
 t. <a href="http://twitter.com/jihyun_says" target="_blank">@jihyun_says</a><br/></p>
 
 
-Examples
---------
-
 Bluetooth 4.0 Low Energy (LE)
 --------
-
+- Examples
+- 
 
 Make Things
 -----------
