@@ -14,8 +14,8 @@ Bluetooth 4.0 Low Energy (LE)
 
 Make Things
 -----------
-- Arduino + LED
-- Arduino + potentiometer
+- <a href="https://itp.nyu.edu/physcomp/Labs/DigitalInOut" target="_blank">Arduino + LED (Digital In/Out)</a>
+- <a href="https://itp.nyu.edu/physcomp/Labs/AnalogIn" target="_blank">Arduino + potentiometer (Analog In)</a>
 - serial communication
 
 Talk to Things
