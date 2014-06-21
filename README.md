@@ -23,7 +23,7 @@ Make Things
 Talk to Things
 --------------
 - add BLE module
-- PhoneGap
-  - Installation
+- <a href="http://phonegap.com/" target="_blank">PhoneGap</a>
+  - <a href="http://phonegap.com/install/" target="_blank">Install</a>
   - Command line
   - Run app
