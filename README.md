@@ -24,9 +24,10 @@ Talk to Things
 --------------
 - add BLE module
 - <a href="http://phonegap.com/" target="_blank">PhoneGap</a>
-  - <a href="http://phonegap.com/install/" target="_blank">Install PhoneGap</a>
+  - Install
     - Install <a href="http://nodejs.org/" target="_blank">Node.js</a>
     - Run Terminal
-    - <pre><code>$ sudo npm install -g phonegap</code></pre>
+    - <a href="http://phonegap.com/install/" target="_blank">Install PhoneGap</a>
+      <pre><code>$ sudo npm install -g phonegap</code></pre>
   - Create a project by Command line
   - Run app
