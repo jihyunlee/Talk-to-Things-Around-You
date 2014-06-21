@@ -27,5 +27,7 @@ Talk to Things
   - <a href="http://phonegap.com/install/" target="_blank">Install PhoneGap</a>
     - Install <a href="http://nodejs.org/" target="_blank">Node.js</a>
     - Run Terminal
+    $ sudo npm install -g phonegap
+
   - Command line
   - Run app
