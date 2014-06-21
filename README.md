@@ -23,4 +23,5 @@ Make Things
 Talk to Things
 --------------
 - add BLE module
+- PhoneGap
 - 
