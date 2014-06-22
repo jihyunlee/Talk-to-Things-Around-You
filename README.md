@@ -36,6 +36,13 @@ Bluetooth 4.0 Low Energy (LE)
           - Additional Descriptor
         - Characteristic: Body Sensor Location
 
+- Support
+  - iOS 5 and later
+  - Android 4.3 and later
+  - Windows Phone 8.1, Windows Phone 8 (no developer API)
+  - BlackBerry 10
+  - Linux 3.4 and later through BlueZ 5.0
+
 
 Make Things
 -----------
