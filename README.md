@@ -27,9 +27,14 @@ Bluetooth 4.0 Low Energy (LE)
     - Read/ Write
   - Peripheral (Server)
     - Advertise
-      - Service
-        - Characteristic
-          - Descriptor
+      - Service: Heart Rate Monitor, ...
+        - Characteristic: Heart Rate Measurement
+          - Type: UUID identifying the type
+          - Value: Octet string with the value
+          - Properties: Read, write, notify
+          - Client Configuration: Notification on/off
+          - Additional Descriptor
+        - Characteristic: Body Sensor Location
 
 
 Make Things
