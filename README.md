@@ -93,7 +93,11 @@ Talk to Things
       $ cordova run android</code></pre>
   - Update/Edit Project
     - Make changes
-    - cordova prepare
-    - Clean Build
     - Build the App
     - Run the App
+
+
+References
+--------------
+- <a href="https://itp.nyu.edu/physcomp/Intro/HomePage" target="_blank">NYU ITP's Intro to Physical Computing</a>
+- <a href="http://docs.phonegap.com/en/3.5.0/guide_cli_index.md.html#The%20Command-Line%20Interface" target="_blank">PhoneGap's Command Line Interface</a>
