@@ -47,6 +47,15 @@ Talk to Things
     - Install <a href="http://nodejs.org/" target="_blank">Node.js</a>
     - Run Terminal
     - <a href="http://phonegap.com/install/" target="_blank">Install PhoneGap</a>
-      <pre><code>$ sudo npm install -g phonegap</code></pre>
-  - Create a project by Command line
-  - Run app
+      <pre><code>$ sudo npm install -g cordova</code></pre>
+  - New Project
+    - Create an App
+    - Add platforms
+    - Add Plugins
+    - Build the App
+    - Run the App
+  - Make changes
+    - cordova prepare
+    - Clean Build
+    - Build the App
+    - Run the App
