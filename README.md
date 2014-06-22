@@ -57,7 +57,9 @@ Bluetooth 4.0 Low Energy (LE)
 - Read more
   - <a href="https://learn.adafruit.com/introduction-to-bluetooth-low-energy" target="_blank">Intro to Bluetooth Low Energy from Adafruit</a>
   - <a href="http://developer.android.com/guide/topics/connectivity/bluetooth-le.html" target="_blank">Bluetooth Low Energy from Android Developers</a>
- 
+  - <a href="http://en.wikipedia.org/wiki/Bluetooth_low_energy" target="_blank">Bluetooth Low Energy from Wikipedia</a>
+  - <a href="https://developer.apple.com/videos/wwdc/2012/" target="_blank">Core Bluetooth 101 from Apple's WWDC 2012</a>
+
 
 Make Things
 -----------
