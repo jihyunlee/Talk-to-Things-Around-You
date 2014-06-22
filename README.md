@@ -10,10 +10,26 @@ t. <a href="http://twitter.com/jihyun_says" target="_blank">@jihyun_says</a><br/
 Bluetooth 4.0 Low Energy (LE)
 --------
 - Examples
-- Advertising
-- Discover
-- Connect
-- Service / Characteristics
+  - Health Care
+  - Sports/Fitness
+  - Security
+  - Automation
+  - Entertainment
+  - Toys
+  - Pay Systems
+  - Time Services
+  - Proximity
+
+- GATT (Generic Attribute Profile)
+  - Central (Client)
+    - Scan
+    - Connect
+    - Read/ Write
+  - Peripheral (Server)
+    - Advertise
+      - Service
+        - Characteristic
+          - Descriptor
 
 
 Make Things
