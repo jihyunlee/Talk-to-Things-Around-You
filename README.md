@@ -54,6 +54,10 @@ Bluetooth 4.0 Low Energy (LE)
   - BlackBerry 10
   - Linux 3.4 and later through BlueZ 5.0
 
+- Read more
+  - <a href="https://learn.adafruit.com/introduction-to-bluetooth-low-energy" target="_blank">Intro to Bluetooth Low Energy from Adafruit</a>
+  - <a href="http://developer.android.com/guide/topics/connectivity/bluetooth-le.html" target="_blank">Bluetooth Low Energy from Android Developers</a>
+ 
 
 Make Things
 -----------
