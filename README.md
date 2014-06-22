@@ -20,13 +20,13 @@ Bluetooth 4.0 Low Energy (LE)
   - Time Services
   - Proximity
 
-- Compare with Classic Bluetooth
+- Compare to Classic Bluetooth
   - Without pairing
   - Reduced power consumption and cost
 
 - Key Terms and Concepts
   - GATT (Generic Attribute Profile)
-  - ATT
+  - ATT (Attribute Protocol)
   - Service
   - Characteristic
   - Descriptor
