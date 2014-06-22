@@ -9,7 +9,7 @@ t. <a href="http://twitter.com/jihyun_says" target="_blank">@jihyun_says</a><br/
 
 Bluetooth 4.0 Low Energy (LE)
 --------
-- Examples
+- Applications
   - Health Care
   - Sports/Fitness
   - Security
@@ -20,21 +20,32 @@ Bluetooth 4.0 Low Energy (LE)
   - Time Services
   - Proximity
 
-- GATT (Generic Attribute Profile)
+- Compare with Classic Bluetooth
+  - Without pairing
+  - Reduced power consumption and cost
+
+- Key Terms and Concepts
+  - GATT (Generic Attribute Profile)
+  - ATT
+  - Service
+  - Characteristic
+  - Descriptor
+
+- Roles and Responsibilities
+  - Peripheral (Server)
+    - Advertise
   - Central (Client)
     - Scan
     - Connect
-    - Read/ Write
-  - Peripheral (Server)
-    - Advertise
-      - Service: Heart Rate Monitor, ...
-        - Characteristic: Heart Rate Measurement
-          - Type: UUID identifying the type
-          - Value: Octet string with the value
-          - Properties: Read, write, notify
-          - Client Configuration: Notification on/off
-          - Additional Descriptor
-        - Characteristic: Body Sensor Location
+    - Read / Write
+  - Service: Heart Rate Monitor, ...
+    - Characteristic: Heart Rate Measurement
+      - Type: UUID identifying the type
+      - Value: Octet string with the value
+      - Properties: Read, write, notify
+      - Client Configuration: Notification on/off
+      - Additional Descriptor
+    - Characteristic: Body Sensor Location
 
 - Support
   - iOS 5 and later
