@@ -10,15 +10,15 @@ t. <a href="http://twitter.com/jihyun_says" target="_blank">@jihyun_says</a><br/
 Bluetooth 4.0 Low Energy (LE)
 --------
 - Applications
-  - Health Care
-  - Sports/Fitness
-  - Security
-  - Automation
-  - Entertainment
-  - Toys
-  - Pay Systems
-  - Time Services
-  - Proximity
+  - Health Care: standardized
+  - Sports/Fitness: heartrate monitor, shoes
+  - Security: key to car, office
+  - Automation: light, temperature at home
+  - Entertainment: 
+  - Toys: 
+  - Pay Systems: secured, localized, easy to use
+  - Time Services: sync all over
+  - Proximity: 
 
 - Compare to Classic Bluetooth
   - Without pairing
