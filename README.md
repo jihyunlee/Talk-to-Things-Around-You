@@ -73,10 +73,24 @@ Talk to Things
       <pre><code>$ sudo npm install -g cordova</code></pre>
   - New Project
     - Create an App
+      <pre><code>$ cordova create hello com.example.hello HelloWorld</code></pre>
     - Add platforms
+      <pre><code>$ cd hello
+      $ cordova platform add ios
+      $ cordova platform add android
+      </code></pre>
+    - List up the platforms set up for the project
+      <pre><code>$ cordova platforms ls</code></pre>
     - Add Plugins
     - Build the App
+      <pre><code>$ cordova build</code></pre>
+      The cordova build command is a shortahand for the following
+      <pre><code>$ cordova prepare
+      $ cordova compile
+      </code></pre>
     - Run the App
+      <pre><code>$ cordova run ios
+      $ cordova run android</code></pre>
   - Update/Edit Project
     - Make changes
     - cordova prepare
