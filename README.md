@@ -54,7 +54,8 @@ Talk to Things
     - Add Plugins
     - Build the App
     - Run the App
-  - Make changes
+  - Update/Edit Project
+    - Make changes
     - cordova prepare
     - Clean Build
     - Build the App
