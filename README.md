@@ -71,7 +71,7 @@ Make Things
 Talk to Things
 --------------
 - Add Bluetooth LE module (ex. <a href="https://www.adafruit.com/products/1697" target="_blank">Bluefruit LE</a>) on the Arduino
-  - wired up
+  - <a href="https://learn.adafruit.com/getting-started-with-the-nrf8001-bluefruit-le-breakout/hooking-everything-up" target="_blank">Wire up</a>
   - Download <a href="https://github.com/adafruit/Adafruit_BLEFirmata" target="_blank">Adafruit_BLEFirmata Library</a>
   - Upload StandardFirmata example sketch on the Arduino
 - <a href="http://phonegap.com/" target="_blank">PhoneGap</a>
