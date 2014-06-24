@@ -19,6 +19,7 @@ Bluetooth 4.0 Low Energy (LE)
   - Pay Systems: secured, localized, easy to use
   - Time Services: sync all over
   - Proximity: 
+  - smart lost & found — stickNFind, Tile
 
 - Compare to Classic Bluetooth
   - Without pairing
