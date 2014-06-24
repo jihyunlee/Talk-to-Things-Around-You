@@ -21,6 +21,8 @@ Bluetooth 4.0 Low Energy (LE)
   - Proximity: 
   - smart lost & found — stickNFind, Tile
 
+- TI sensor Tag, Estimote
+
 - Compare to Classic Bluetooth
   - Without pairing
   - Reduced power consumption and cost
