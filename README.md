@@ -91,6 +91,9 @@ Talk to Things
     - List up the platforms set up for the project
       <pre><code>$ cordova platforms ls</code></pre>
     - Add Plugins
+      <pre><code>$ cordova plugin add https://github.com/apache/cordova-plugin-console.git
+      $ cordova plugin add https://github.com/don/BluetoothSerial.git
+      </code></pre>
     - Build the App
       <pre><code>$ cordova build</code></pre>
       The cordova build command is a shortahand for the following
