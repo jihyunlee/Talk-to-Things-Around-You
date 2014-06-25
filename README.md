@@ -103,8 +103,6 @@ Talk to Things
       $ cordova compile
       </code></pre>
     - Run the App
-      <pre><code>$ cordova run</code></pre>
-      But if you use multiple platforms, you should declare which
       <pre><code>$ cordova run ios
       $ cordova run android</code></pre>
   - Update/Edit Project
@@ -112,7 +110,7 @@ Talk to Things
     - Build the App
       <pre><code>$ cordova build</code></pre>
     - Run the App
-      <pre><code>$ cordova run ios</code></pre>
+      <pre><code>$ cordova run</code></pre>
 
 
 References
