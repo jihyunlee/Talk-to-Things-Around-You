@@ -67,7 +67,7 @@ t. <a href="http://twitter.com/jihyun_says" target="_blank">@jihyun_says</a><br/
 ##Make Things
 - <a href="https://itp.nyu.edu/physcomp/Labs/DigitalInOut" target="_blank">Arduino + LED (Digital In/Out)</a>
 - <a href="https://itp.nyu.edu/physcomp/Labs/AnalogIn" target="_blank">Arduino + potentiometer (Analog In)</a>
-- <a href="https://itp.nyu.edu/physcomp/Labs/SerialOut" target="_blank">Serial communication</a>
+- <a href="http://arduino.cc/en/reference/firmata" target="_blank">Arduino Firmata</a>
 
 
 ##Talk to Things
