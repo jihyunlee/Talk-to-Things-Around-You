@@ -20,13 +20,6 @@ t. <a href="http://twitter.com/jihyun_says" target="_blank">@jihyun_says</a><br/
   - Proximity --  retail store
   - Smart lost & found -- stickNFind, Tile
 
-####BLE Modules
-  - <a href="http://www.ti.com/ww/en/wireless_connectivity/sensortag/index.shtml?INTC=SensorTag&HQS=sensortag" target="_blank">TI sensor Tag</a>
-  - <a href="http://estimote.com/" target="_blank">Estimote</a>
-  - <a href="http://punchthrough.com/bean/" target="_blank">LightBlue Bean</a>
-  - RedBearLab's <a href="http://redbearlab.com/bleshield/" target="_blank">BLE Shield</a>, <a href="http://redbearlab.com/blemini/" target="_blank">BLE Mini</a>, <a href="http://redbearlab.com/blendmicro/" target="_blank">Blend Micro</a>
-  - Node.js + <a href="https://github.com/sandeepmistry/bleno" target="_blank">Bleno (Peripheral)</a> / <a href="https://github.com/sandeepmistry/noble" target="_blank">Noble (Central)</a>
-
 ####Compare to Classic Bluetooth
   - Without pairing
   - Reduced power consumption and cost
@@ -78,11 +71,18 @@ t. <a href="http://twitter.com/jihyun_says" target="_blank">@jihyun_says</a><br/
 
 
 ##Talk to Things
-- Add Bluetooth LE module (ex. <a href="https://www.adafruit.com/products/1697" target="_blank">Bluefruit LE</a>) on the Arduino
-  - <a href="https://learn.adafruit.com/getting-started-with-the-nrf8001-bluefruit-le-breakout/hooking-everything-up" target="_blank">Wire up</a>
-  - Download <a href="https://github.com/adafruit/Adafruit_BLEFirmata" target="_blank">Adafruit_BLEFirmata Library</a>
-  - Upload <a href="https://github.com/adafruit/Adafruit_BLEFirmata" target="_blank">Adafruit's StandardFirmata</a> example sketch on the Arduino
-- <a href="http://phonegap.com/" target="_blank">PhoneGap</a>
+####BLE Modules
+  - <a href="http://www.ti.com/ww/en/wireless_connectivity/sensortag/index.shtml?INTC=SensorTag&HQS=sensortag" target="_blank">TI sensor Tag</a>
+  - <a href="http://estimote.com/" target="_blank">Estimote</a>
+  - <a href="http://punchthrough.com/bean/" target="_blank">LightBlue Bean</a>
+  - RedBearLab's <a href="http://redbearlab.com/bleshield/" target="_blank">BLE Shield</a>, <a href="http://redbearlab.com/blemini/" target="_blank">BLE Mini</a>, <a href="http://redbearlab.com/blendmicro/" target="_blank">Blend Micro</a>
+  - Node.js + <a href="https://github.com/sandeepmistry/bleno" target="_blank">Bleno (Peripheral)</a> / <a href="https://github.com/sandeepmistry/noble" target="_blank">Noble (Central)</a>
+  - <a href="https://www.adafruit.com/products/1697" target="_blank">Bluefruit LE</a> (in-class)
+    - <a href="https://learn.adafruit.com/getting-started-with-the-nrf8001-bluefruit-le-breakout/hooking-everything-up" target="_blank">Wire up</a>
+    - Download <a href="https://github.com/adafruit/Adafruit_BLEFirmata" target="_blank">Adafruit_BLEFirmata Library</a>
+    - Upload <a href="https://github.com/adafruit/Adafruit_BLEFirmata" target="_blank">Adafruit's StandardFirmata</a> example sketch on the Arduino
+
+####<a href="http://phonegap.com/" target="_blank">PhoneGap</a>
   - Install
     - Install <a href="http://nodejs.org/" target="_blank">Node.js</a>
     - Run Terminal
