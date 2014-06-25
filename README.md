@@ -89,10 +89,10 @@ t. <a href="http://twitter.com/jihyun_says" target="_blank">@jihyun_says</a><br/
   - New Project
     - Create an App
       <pre><code>$ cordova create hello com.example.hello HelloWorld</code></pre>
+    - Go to working directory
+      <pre><code>$ cd hello</code></pre>
     - Add platforms
-      <pre><code>$ cd hello
-      $ cordova platform add ios
-      </code></pre>
+      <pre><code>$ cordova platform add ios</code></pre>
     - List up the platforms set up for the project
       <pre><code>$ cordova platforms ls</code></pre>
     - Add Plugins
