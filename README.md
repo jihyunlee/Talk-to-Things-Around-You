@@ -10,12 +10,12 @@ t. <a href="http://twitter.com/jihyun_says" target="_blank">@jihyun_says</a><br/
 ##Bluetooth 4.0 Low Energy (LE)
 
 ####Applications
-  - Health Care: standardized
-  - Sports/Fitness: heartrate monitor, shoes
-  - Security: key to car, office
-  - Automation: light, temperature at home
-  - Entertainment: 
-  - Toys: 
+  - Health Care
+  - Sports/Fitness -- heartrate monitor, shoes
+  - Security -- key to car, office
+  - Automation -- light, temperature at home
+  - Entertainment
+  - Toys
   - Pay Systems -- secured, localized, easy to use
   - Proximity --  retail store
   - Smart lost & found -- stickNFind, Tile
@@ -76,6 +76,7 @@ t. <a href="http://twitter.com/jihyun_says" target="_blank">@jihyun_says</a><br/
 - <a href="http://arduino.cc/en/reference/firmata" target="_blank">Arduino Firmata</a>
 - <a href="" target="_blank">Serial communication</a>
 
+
 ##Talk to Things
 - Add Bluetooth LE module (ex. <a href="https://www.adafruit.com/products/1697" target="_blank">Bluefruit LE</a>) on the Arduino
   - <a href="https://learn.adafruit.com/getting-started-with-the-nrf8001-bluefruit-le-breakout/hooking-everything-up" target="_blank">Wire up</a>
@@ -122,11 +123,4 @@ t. <a href="http://twitter.com/jihyun_says" target="_blank">@jihyun_says</a><br/
       <pre><code>$ cordova build</code></pre>
     - Run the App
       <pre><code>$ cordova run</code></pre>
-  * learn more <a href="http://docs.phonegap.com/en/3.5.0/guide_cli_index.md.html#The%20Command-Line%20Interface" target="_blank">PhoneGap's Command Line Interface</a>
-
-###References
-- <a href="https://itp.nyu.edu/physcomp/Intro/HomePage" target="_blank">NYU ITP's Intro to Physical Computing</a>
-- 
-- http://www.slideshare.net/EVRYTHNG/android-the-web-of-things-bluetooth-low-energy-bluetooth-40-ibeacons-barcodes-qrs-nfc-arduino
-- http://www.instructables.com/id/Talk-to-an-Arduino-With-an-iOS-device-using-Blueto/?ALLSTEPS
-- http://beekn.net/2014/05/ibeacon-and-wwdc-3-things-to-watch/
+  * Learn more <a href="http://docs.phonegap.com/en/3.5.0/guide_cli_index.md.html#The%20Command-Line%20Interface" target="_blank">PhoneGap's Command Line Interface</a>
