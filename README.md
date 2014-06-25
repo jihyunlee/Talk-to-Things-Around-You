@@ -97,14 +97,14 @@ t. <a href="http://twitter.com/jihyun_says" target="_blank">@jihyun_says</a><br/
     - List up the platforms set up for the project
       <pre><code>$ cordova platforms ls</code></pre>
     - Add Plugins
-      For debugging,
-      <pre><code>$ cordova plugin add https://github.com/apache/cordova-plugin-console.git</code></pre>
-      If you use Firmata,
+      If you use Firmata, (in class)
       <pre><code>$ cordova plugin add https://github.com/jihyunlee/BLEFirmata.git</code></pre>
-      If Serial,
+      But there are more Phonegap's plugins. If you want to use serial,
       <pre><code>$ cordova plugin add https://github.com/don/BluetoothSerial.git</code></pre>
       or
       <pre><code>$ cordova plugin add https://github.com/randdusing/BluetoothLE.git</code></pre>
+      For debugging, you probably want
+      <pre><code>$ cordova plugin add https://github.com/apache/cordova-plugin-console.git</code></pre>
     - Build the App
       <pre><code>$ cordova build</code></pre>
       The cordova build command is a shortahand for the following
