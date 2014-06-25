@@ -108,7 +108,9 @@ Talk to Things
   - Update/Edit Project
     - Make changes
     - Build the App
+      <pre><code>$ cordova build</code></pre>
     - Run the App
+      <pre><code>$ cordova run ios</code></pre>
 
 
 References
