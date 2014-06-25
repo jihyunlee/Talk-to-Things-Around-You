@@ -7,8 +7,8 @@ e. jihyun.lee@nyu.edu<br/>
 t. <a href="http://twitter.com/jihyun_says" target="_blank">@jihyun_says</a><br/></p>
 
 
-Bluetooth 4.0 Low Energy (LE)
---------
+###Bluetooth 4.0 Low Energy (LE)
+
 - Applications
   - Health Care: standardized
   - Sports/Fitness: heartrate monitor, shoes
@@ -64,15 +64,13 @@ Bluetooth 4.0 Low Energy (LE)
   - <a href="https://developer.apple.com/videos/wwdc/2012/" target="_blank">Core Bluetooth 101 from Apple's WWDC 2012</a>
 
 
-Make Things
------------
+###Make Things
 - <a href="https://itp.nyu.edu/physcomp/Labs/DigitalInOut" target="_blank">Arduino + LED (Digital In/Out)</a>
 - <a href="https://itp.nyu.edu/physcomp/Labs/AnalogIn" target="_blank">Arduino + potentiometer (Analog In)</a>
 - <a href="https://itp.nyu.edu/physcomp/Labs/SerialOut" target="_blank">Serial communication</a>
 
 
-Talk to Things
---------------
+###Talk to Things
 - Add Bluetooth LE module (ex. <a href="https://www.adafruit.com/products/1697" target="_blank">Bluefruit LE</a>) on the Arduino
   - <a href="https://learn.adafruit.com/getting-started-with-the-nrf8001-bluefruit-le-breakout/hooking-everything-up" target="_blank">Wire up</a>
   - Download <a href="https://github.com/adafruit/Adafruit_BLEFirmata" target="_blank">Adafruit_BLEFirmata Library</a>
@@ -115,8 +113,7 @@ Talk to Things
       <pre><code>$ cordova run</code></pre>
 
 
-References
---------------
+###References
 - <a href="https://itp.nyu.edu/physcomp/Intro/HomePage" target="_blank">NYU ITP's Intro to Physical Computing</a>
 - <a href="http://docs.phonegap.com/en/3.5.0/guide_cli_index.md.html#The%20Command-Line%20Interface" target="_blank">PhoneGap's Command Line Interface</a>
 - http://www.slideshare.net/EVRYTHNG/android-the-web-of-things-bluetooth-low-energy-bluetooth-40-ibeacons-barcodes-qrs-nfc-arduino
