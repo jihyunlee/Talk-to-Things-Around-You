@@ -24,7 +24,7 @@ t. <a href="http://twitter.com/jihyun_says" target="_blank">@jihyun_says</a><br/
 ####BLE Modules
   - <a href="http://www.ti.com/ww/en/wireless_connectivity/sensortag/index.shtml?INTC=SensorTag&HQS=sensortag" target="_blank">TI sensor Tag</a>
   - <a href="http://estimote.com/" target="_blank">Estimote</a>
-  - RedBearLab's <a href="http://redbearlab.com/blemini/" target="_blank">BLE Mini</a>, <a href="http://redbearlab.com/blendmicro/" target="_blank">Blend Micro</a>
+  - RedBearLab's <a href="http://redbearlab.com/bleshield/" target="_blank">BLE Shield</a>, <a href="http://redbearlab.com/blemini/" target="_blank">BLE Mini</a>, <a href="http://redbearlab.com/blendmicro/" target="_blank">Blend Micro</a>
 
 ####Compare to Classic Bluetooth
   - Without pairing
