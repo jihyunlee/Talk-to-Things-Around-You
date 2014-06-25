@@ -27,7 +27,6 @@ t. <a href="http://twitter.com/jihyun_says" target="_blank">@jihyun_says</a><br/
 
 ####Key Terms and Concepts
   - GATT (Generic Attribute Profile)
-  - ATT (Attribute Protocol)
   - Service
   - Characteristic
   - Descriptor
