@@ -29,6 +29,7 @@ t. <a href="http://twitter.com/jihyun_says" target="_blank">@jihyun_says</a><br/
 ####Compare to Classic Bluetooth
   - Without pairing
   - Reduced power consumption and cost
+  - watch <a href="http://vimeo.com/97924680" target="_blank">Tom Igoe and Don Coleman's overview of Bluetooth LE</a>
 
 ####Key Terms and Concepts
   - GATT (Generic Attribute Profile)
@@ -61,6 +62,7 @@ t. <a href="http://twitter.com/jihyun_says" target="_blank">@jihyun_says</a><br/
   - Linux 3.4 and later through BlueZ 5.0
 
 ####Read more
+  - <a href="http://makezine.com/2014/06/16/the-bluetooth-le-doc-a-thon-at-itp-camp/" target="_blank">Bluetooth LE Doc-a-thon</a> at <a href="http://itp.nyu.edu/camp2014/" target="_blank">ITP camp</a>
   - <a href="https://learn.adafruit.com/introduction-to-bluetooth-low-energy" target="_blank">Intro to Bluetooth Low Energy from Adafruit</a>
   - <a href="http://developer.android.com/guide/topics/connectivity/bluetooth-le.html" target="_blank">Bluetooth Low Energy from Android Developers</a>
   - <a href="http://en.wikipedia.org/wiki/Bluetooth_low_energy" target="_blank">Bluetooth Low Energy from Wikipedia</a>
