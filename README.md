@@ -121,3 +121,4 @@ t. <a href="http://twitter.com/jihyun_says" target="_blank">@jihyun_says</a><br/
 - <a href="http://docs.phonegap.com/en/3.5.0/guide_cli_index.md.html#The%20Command-Line%20Interface" target="_blank">PhoneGap's Command Line Interface</a>
 - http://www.slideshare.net/EVRYTHNG/android-the-web-of-things-bluetooth-low-energy-bluetooth-40-ibeacons-barcodes-qrs-nfc-arduino
 - http://www.instructables.com/id/Talk-to-an-Arduino-With-an-iOS-device-using-Blueto/?ALLSTEPS
+- http://beekn.net/2014/05/ibeacon-and-wwdc-3-things-to-watch/
