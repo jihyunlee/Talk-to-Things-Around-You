@@ -89,13 +89,12 @@ Talk to Things
     - Add platforms
       <pre><code>$ cd hello
       $ cordova platform add ios
-      $ cordova platform add android
       </code></pre>
     - List up the platforms set up for the project
       <pre><code>$ cordova platforms ls</code></pre>
     - Add Plugins
       <pre><code>$ cordova plugin add https://github.com/apache/cordova-plugin-console.git
-      $ cordova plugin add https://github.com/don/BluetoothSerial.git
+      $ cordova plugin add https://github.com/jihyunlee/BLEFirmata.git
       </code></pre>
     - Build the App
       <pre><code>$ cordova build</code></pre>
