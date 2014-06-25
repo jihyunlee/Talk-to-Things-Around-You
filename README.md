@@ -9,7 +9,7 @@ t. <a href="http://twitter.com/jihyun_says" target="_blank">@jihyun_says</a><br/
 
 ##Bluetooth 4.0 Low Energy (LE)
 
-- Applications
+####Applications
   - Health Care: standardized
   - Sports/Fitness: heartrate monitor, shoes
   - Security: key to car, office
@@ -21,20 +21,23 @@ t. <a href="http://twitter.com/jihyun_says" target="_blank">@jihyun_says</a><br/
   - Proximity: 
   - smart lost & found — stickNFind, Tile
 
-- TI sensor Tag, Estimote
+####BLE Modules
+  - <a href="http://www.ti.com/ww/en/wireless_connectivity/sensortag/index.shtml?INTC=SensorTag&HQS=sensortag" target="_blank">TI sensor Tag</a>
+  - <a href="http://estimote.com/" target="_blank">Estimote</a>
+  - RedBearLab's <a href="http://redbearlab.com/blemini/" target="_blank">BLE Mini</a>, <a href="http://redbearlab.com/blendmicro/" target="_blank">Blend Micro</a>
 
-- Compare to Classic Bluetooth
+####Compare to Classic Bluetooth
   - Without pairing
   - Reduced power consumption and cost
 
-- Key Terms and Concepts
+####Key Terms and Concepts
   - GATT (Generic Attribute Profile)
   - ATT (Attribute Protocol)
   - Service
   - Characteristic
   - Descriptor
 
-- Roles and Responsibilities
+####Roles and Responsibilities
   - Peripheral (Server)
     - Advertise
   - Central (Client)
@@ -50,14 +53,14 @@ t. <a href="http://twitter.com/jihyun_says" target="_blank">@jihyun_says</a><br/
       - Additional Descriptor
     - Characteristic: Body Sensor Location
 
-- Support
+####Support
   - iOS 5 and later
   - Android 4.3 and later
   - Windows Phone 8.1, Windows Phone 8 (no developer API)
   - BlackBerry 10
   - Linux 3.4 and later through BlueZ 5.0
 
-- Read more
+####Read more
   - <a href="https://learn.adafruit.com/introduction-to-bluetooth-low-energy" target="_blank">Intro to Bluetooth Low Energy from Adafruit</a>
   - <a href="http://developer.android.com/guide/topics/connectivity/bluetooth-le.html" target="_blank">Bluetooth Low Energy from Android Developers</a>
   - <a href="http://en.wikipedia.org/wiki/Bluetooth_low_energy" target="_blank">Bluetooth Low Energy from Wikipedia</a>
