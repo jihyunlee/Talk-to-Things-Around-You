@@ -27,9 +27,9 @@ t. <a href="http://twitter.com/jihyun_says" target="_blank">@jihyun_says</a><br/
 
 ####Key Terms and Concepts
   - <a href="https://developer.bluetooth.org/TechnologyOverview/Pages/GATT.aspx" target="_blank">GATT (Generic Attribute Profile)</a>
-  - Service
-  - Characteristic
-  - Descriptor
+  - <a href="https://developer.bluetooth.org/gatt/services/Pages/ServicesHome.aspx" target="_blank">Service</a>
+  - <a href="https://developer.bluetooth.org/gatt/characteristics/Pages/CharacteristicsHome.aspx" target="_blank">Characteristic</a>
+  - <a href="https://developer.bluetooth.org/gatt/descriptors/Pages/DescriptorsHomePage.aspx" target="_blank">Descriptor</a>
 
 ####Roles and Responsibilities
   - Peripheral (Server)
