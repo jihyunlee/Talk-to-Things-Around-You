@@ -26,7 +26,7 @@ t. <a href="http://twitter.com/jihyun_says" target="_blank">@jihyun_says</a><br/
   - watch <a href="http://vimeo.com/97924680" target="_blank">Tom Igoe and Don Coleman's overview of Bluetooth LE</a>
 
 ####Key Terms and Concepts
-  - GATT (Generic Attribute Profile)
+  - <a href="https://developer.bluetooth.org/TechnologyOverview/Pages/GATT.aspx" target="_blank">GATT (Generic Attribute Profile)</a>
   - Service
   - Characteristic
   - Descriptor
