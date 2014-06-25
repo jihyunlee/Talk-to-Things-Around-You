@@ -25,6 +25,7 @@ t. <a href="http://twitter.com/jihyun_says" target="_blank">@jihyun_says</a><br/
   - <a href="http://estimote.com/" target="_blank">Estimote</a>
   - <a href="http://punchthrough.com/bean/" target="_blank">LightBlue Bean</a>
   - RedBearLab's <a href="http://redbearlab.com/bleshield/" target="_blank">BLE Shield</a>, <a href="http://redbearlab.com/blemini/" target="_blank">BLE Mini</a>, <a href="http://redbearlab.com/blendmicro/" target="_blank">Blend Micro</a>
+  - Node.js + <a href="https://github.com/sandeepmistry/bleno" target="_blank">Bleno (Peripheral)</a> / <a href="https://github.com/sandeepmistry/noble" target="_blank">Noble (Central)</a>
 
 ####Compare to Classic Bluetooth
   - Without pairing
@@ -73,7 +74,7 @@ t. <a href="http://twitter.com/jihyun_says" target="_blank">@jihyun_says</a><br/
 - <a href="https://itp.nyu.edu/physcomp/Labs/DigitalInOut" target="_blank">Arduino + LED (Digital In/Out)</a>
 - <a href="https://itp.nyu.edu/physcomp/Labs/AnalogIn" target="_blank">Arduino + potentiometer (Analog In)</a>
 - <a href="http://arduino.cc/en/reference/firmata" target="_blank">Arduino Firmata</a>
-
+- <a href="" target="_blank">Serial communication</a>
 
 ##Talk to Things
 - Add Bluetooth LE module (ex. <a href="https://www.adafruit.com/products/1697" target="_blank">Bluefruit LE</a>) on the Arduino
@@ -96,9 +97,14 @@ t. <a href="http://twitter.com/jihyun_says" target="_blank">@jihyun_says</a><br/
     - List up the platforms set up for the project
       <pre><code>$ cordova platforms ls</code></pre>
     - Add Plugins
-      <pre><code>$ cordova plugin add https://github.com/apache/cordova-plugin-console.git
-      $ cordova plugin add https://github.com/jihyunlee/BLEFirmata.git
-      </code></pre>
+      For debugging,
+      <pre><code>$ cordova plugin add https://github.com/apache/cordova-plugin-console.git</code></pre>
+      If you use Firmata,
+      <pre><code>$ cordova plugin add https://github.com/jihyunlee/BLEFirmata.git</code></pre>
+      If Serial,
+      <pre><code>$ cordova plugin add https://github.com/don/BluetoothSerial.git</code></pre>
+      or
+      <pre><code>$ cordova plugin add https://github.com/randdusing/BluetoothLE.git</code></pre>
     - Build the App
       <pre><code>$ cordova build</code></pre>
       The cordova build command is a shortahand for the following
