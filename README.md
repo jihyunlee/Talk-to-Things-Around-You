@@ -97,12 +97,15 @@ t. <a href="http://twitter.com/jihyun_says" target="_blank">@jihyun_says</a><br/
     - List up the platforms set up for the project
       <pre><code>$ cordova platforms ls</code></pre>
     - Add Plugins
-      If you use Firmata, (in class)
+      If you use Firmata, (in class) 
       <pre><code>$ cordova plugin add https://github.com/jihyunlee/BLEFirmata.git</code></pre>
+      See more details about the plugin <a href="https://github.com/jihyunlee/BLEFirmata" target="_blank">here</a>.
       But there are more Phonegap's plugins. If you want to use serial,
       <pre><code>$ cordova plugin add https://github.com/don/BluetoothSerial.git</code></pre>
+      See more details about the plugin <a href="https://github.com/don/BluetoothSerial" target="_blank">here</a>.
       or
       <pre><code>$ cordova plugin add https://github.com/randdusing/BluetoothLE.git</code></pre>
+      See more details about the plugin <a href="https://github.com/randdusing/BluetoothLE" target="_blank">here</a>.
       For debugging, you probably want
       <pre><code>$ cordova plugin add https://github.com/apache/cordova-plugin-console.git</code></pre>
     - Build the App
